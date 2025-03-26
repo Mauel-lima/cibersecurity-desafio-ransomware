@@ -1,4 +1,4 @@
-Projeto prático da DIO para criação de um Encrypter e Descrypter de arquivos em python, semelhante aos usados em Rnsowares
+Projeto prático da DIO para criação de um Encrypter e Decrypter de arquivos em python, semelhante aos usados em Rnsowares
 Visando o aprendizado eu realizei as seguintes modificações nos arquivos originais
 
 1° - Modifiquei para que seja possível informar o nome do arquivo a ser criptografado, ao invés de um nome pré-definido
